@@ -1,10 +1,10 @@
-#Online Sales Performance Dashboard
+# Online Sales Performance Dashboard
 
-#Overview
+# Overview
 
 The Online Sales Performance Dashboard is a data-driven visualization project designed to analyze and track key sales metrics. This project leverages SQL for data preprocessing and Power BI for interactive reporting, helping stakeholders make informed business decisions.
 
-#Features
+# Features
 
 Data Cleaning with SQL: Processed large datasets to remove duplicates and handle missing values, ensuring data integrity.
 
@@ -14,13 +14,13 @@ Customer Segmentation: Identified customer groups based on purchasing behavior t
 
 Stakeholder Reporting: Provided insights through interactive dashboards to facilitate decision-making.
 
-#Technologies Used
+# Technologies Used
 
 SQL: Data cleaning and transformation.
 
 Power BI: Data visualization and dashboard creation.
 
-#Future Enhancements
+# Future Enhancements
 
 Integration with real-time data sources.
 
