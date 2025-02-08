@@ -1,4 +1,5 @@
-# Online-sales-performance-Dashboard
+Online Sales Performance Dashboard
+
 Overview
 
 The Online Sales Performance Dashboard is a data-driven visualization project designed to analyze and track key sales metrics. This project leverages SQL for data preprocessing and Power BI for interactive reporting, helping stakeholders make informed business decisions.
@@ -26,4 +27,3 @@ Integration with real-time data sources.
 Advanced predictive analytics for sales forecasting.
 
 Additional visualizations for deeper customer insights.
-
